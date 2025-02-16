@@ -4,7 +4,7 @@ I'm **Onkar Gite**, a passionate developer who loves creating innovative solutio
 
 ## About Me
 
-I'm a software developer based in [Your Location]. I enjoy working on diverse projects that challenge my skills and push me to learn more. My email is giteonkar2004@gmail.com.
+I'm a software developer based in pune. I enjoy working on diverse projects that challenge my skills and push me to learn more. My email is giteonkar2004@gmail.com.
 
 ## Skills & Technologies
 
