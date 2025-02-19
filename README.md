@@ -40,5 +40,3 @@ Currently, I do not have any blog posts to share. Stay tuned for updates!
 ## Connect with Me
 
 {"linkedin":"https://www.linkedin.com/in/onkar-gite-80964428a/","HACKER RANK":"https://www.hackerrank.com/dashboard"}
-
-![Image](https://github.com/user-attachments/assets/1f3f2700-c87c-4ecc-bf9d-d331b5c01400)
