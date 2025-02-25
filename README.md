@@ -6,6 +6,14 @@ I'm **Onkar Gite**, a passionate software developer with a knack for building in
 
 I'm a self-taught developer based in an Pune. My primary focus is on Python programming, and I enjoy creating applications that solve real-world problems. If you want to reach out, feel free to contact me at [giteonkar2004@gmail.com](mailto:giteonkar2004@gmail.com).
 
+<h3 align="left">🤝 Stay connected with me:</h3>
+<p align="left" style="margin-top: 14px;">
+    <a href="https://www.linkedin.com/in/onkar-gite-80964428a/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40px" height="40px" />
+    </a>
+</p>
+<br>
+
 ## Skills & Technologies
 
 pycharm,cpp,django,py,windows,github,git,html
